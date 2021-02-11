@@ -4,14 +4,17 @@
 
 ![This is me](https://github.com/frankper2001/frankper2001/blob/main/FotoCarnetCircular2%20(1).png)
 ```javascript
-const KeepCoding = {
+const perfil = {
 code: [
-"Web Developer"],
+"Web Developer", 
+"WordPress Developer"],
 technologies:[
 "HTML5",
 "CSS3",
 "JavaScript",
-"Vue.js"
+"Vue.js",
+"jQuery",
+"Bootstrap",
 "PHP",
 "Laravel"
 ]
