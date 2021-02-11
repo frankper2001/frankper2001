@@ -13,3 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![This is me](https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg)
+```javascript
+const KeepCoding = {
+code: [
+"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
+"BIG DATA &amp; MACHINE LEARNING",
+"DEVOPS",
+"CIBERSEGURIDAD",
+"BLOCKCHAIN"],
+technologies:[
+"Cursos Online",
+"Webbinars",
+"BootCamps",
+]
+},
+homePage: "https://justcodeit.io/"
+};
+``````
