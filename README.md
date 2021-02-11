@@ -6,15 +6,14 @@
 ```javascript
 const KeepCoding = {
 code: [
-"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
-"BIG DATA &amp; MACHINE LEARNING",
-"DEVOPS",
-"CIBERSEGURIDAD",
-"BLOCKCHAIN"],
+"Web Developer"],
 technologies:[
-"Cursos Online",
-"Webbinars",
-"BootCamps",
+"HTML5",
+"CSS3",
+"JavaScript",
+"Vue.js"
+"PHP",
+"Laravel"
 ]
 },
 homePage: "https://www.desarrollo-web.dev/"
