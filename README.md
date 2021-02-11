@@ -28,8 +28,10 @@
 const profile = {
 code: [
 "Frontend Developer", 
-"WordPress Developer"]
-},
-homePage: "https://www.desarrollo-web.dev/"
+"WordPress Developer"],
+homePage: [
+"https://www.desarrollo-web.dev/"],
+currentOccupation: [
+"last year student, open for job opportunities"]
 };
 ``````
