@@ -1,7 +1,9 @@
-
-
 ![This is me](https://github.com/frankper2001/frankper2001/blob/main/FotoCarnetCircular2%20(1).png)
 
+<p align="center">
+<a href="https://github.com/frankper2001/"><img alt="Email" src="https://github.com/frankper2001/frankper2001/blob/main/FotoCarnetCircular2%20(1).png"></a>
+
+</p>
 
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
@@ -35,3 +37,9 @@ currentOccupation: [
 "last year student, open for job opportunities"]
 };
 ``````
+<br/>
+<p align="center">
+<a href="https://www.desarrollo-web.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.desarrolloWeb.dev-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/franciscojoseperez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@FranciscoPerez-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:frankper2001.es@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-frankper2001.es@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
