@@ -1,4 +1,3 @@
-![This is me](https://github.com/frankper2001/frankper2001/blob/main/FotoCarnetCircular2%20(1).png)
 
 <p align="center">
 <a href="https://github.com/frankper2001/"><img alt="Email" src="https://github.com/frankper2001/frankper2001/blob/main/FotoCarnetCircular2%20(1).png"></a>
