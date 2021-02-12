@@ -33,6 +33,8 @@ const profile = {
 code: [
 "Frontend Developer", 
 "WordPress Developer"],
+currentLocation: [
+"Barcelona, Spain"],
 homePage: [
 "https://www.desarrollo-web.dev/"],
 hobbies: [
