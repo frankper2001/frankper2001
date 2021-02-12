@@ -11,9 +11,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankper2001&label=Profile%20views&color=0e75b6&style=flat" alt="frankper2001" /> </p>
 
 
-- 🌱 I’m currently learning **Vue.js**
-
 - 👨‍💻 I’m freelance working from home and open for job opportunities
+
+- :books: I’m currently learning <img src="https://img.shields.io/badge/-vue.js-3a495d?style=flat&logo=vue.js&logoColor=4FC08D">
+
+- :books: I want to learn <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-angular-black?style=flat&logo=angular&logoColor=DD0031"/>
 
 - 💻 All of my projects are available at [https://www.desarrollo-web.dev/](https://www.desarrollo-web.dev/)
 
