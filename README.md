@@ -14,7 +14,7 @@
 
 - :books: I’m currently learning  <img src="https://img.shields.io/badge/-vue.js-3a495d?style=flat&logo=vue.js&logoColor=4FC08D">
 
-- :books: I want to learn  <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7">  and  <img src="http://img.shields.io/badge/-angular-black?style=flat&logo=angular&logoColor=DD0031"/>
+- :books: I want to learn  <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7">  and  <img src="http://img.shields.io/badge/-angular-3a495d?style=flat&logo=angular&logoColor=DD0031"/>
 
 - 💻 All of my projects are available at  <a href="https://www.desarrollo-web.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.desarrolloWeb.dev-blue?style=flat&logo=google-chrome"></a>
 
