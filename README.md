@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 I’m freelance working from home
+- 👨‍💻 I’m freelance working from home and open for job opportunities
 
 - 💻 All of my projects are available at [https://www.desarrollo-web.dev/](https://www.desarrollo-web.dev/)
 
@@ -35,8 +35,10 @@ code: [
 "WordPress Developer"],
 homePage: [
 "https://www.desarrollo-web.dev/"],
-currentOccupation: [
-"last year student, open for job opportunities"]
+hobbies: [
+"climb",
+"trekking"
+]
 }
 ```
 <br/>
